@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Web Services</string>
+    <string name="numero1">Numero 1 :</string>
+    <string name="numero2">Numero 2 :</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado :</string>
+</resources>
